@@ -1,4 +1,4 @@
-# Angular v20 File Refactor
+# Angular v20 Bulk File Refactor
 
 A CLI tool to automate file renaming and content refactoring for Angular 20 projects. This tool updates file names and TypeScript file contents to align with Angular 20 conventions, handling patterns like `.component`, `.service`, `.directive`, and `.model`.
 
