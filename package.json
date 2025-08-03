@@ -29,7 +29,7 @@
     "type": "git",
     "url": "git+https://github.com/esteecodes/angular-v20-bulk-file-refactor.git"
   },
-  "homepage": "https://github.com/esteecodes/angular-v20-bulk-file-refactor#readme",
+  "homepage": "https://angular-v20-bulk-file-refactor.esteecodes.com",
   "bin": {
     "angular-v20-bulk-file-refactor": "./bin/cli.js"
   },
