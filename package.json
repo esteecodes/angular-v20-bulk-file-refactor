@@ -1,0 +1,44 @@
+{
+  "name": "angular-v20-bulk-file-refactor",
+  "version": "1.0.01",
+  "description": "A CLI tool to automate file renaming and TypeScript refactoring for Angular 20 projects, aligning with conventions for components, services, directives, models, and standalone components.",
+  "keywords": [
+    "angular",
+    "angular20",
+    "angular-20",
+    "angular-v20",
+    "automation",
+    "automated-tool",
+    "refactor",
+    "typescript",
+    "cli",
+    "update",
+    "migration-tool",
+    "file-rename",
+    "file-refactor",
+    "bulk-file-refactor",
+    "bulk-file-rename",
+    "typescript-refactor",
+    "angular-cli",
+    "angular-refactoring",
+    "standalone"
+  ],
+  "license": "MIT",
+  "author": "Esther White <esteecodes@gmail.com>[](https://github.com/esteecodes)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esteecodes/angular-v20-bulk-file-refactor.git"
+  },
+  "homepage": "https://github.com/esteecodes/angular-v20-bulk-file-refactor#readme",
+  "bin": {
+    "angular-v20-bulk-file-refactor": "./bin/cli.js"
+  },
+  "files": [
+    "bin/cli.js",
+    "bin/angular-v20-bulk-file-refactor.exe",
+    "bin/angular-v20-bulk-file-refactor-linux"
+  ],
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
